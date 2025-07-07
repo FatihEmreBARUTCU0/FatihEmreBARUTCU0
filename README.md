@@ -25,9 +25,10 @@ Node.js, Express.js, MongoDB, JWT
 Socket.io  
 
 
-**İlgilendiğim Alanlar / Areas of Interest:**
--Yapay Zeka, Doğal Dil İşleme, Derin Öğrenme, Web Geliştirme, Back-End ve Front-End Uygulama Geliştirme 
--AI, Natural Language Processing, Deep Learning, Web Development, Back-End & Front-End Application Development
+**İlgilendiğim Alanlar / Areas of Interest:**  
+Yapay Zeka, Doğal Dil İşleme, Derin Öğrenme, Web Geliştirme, Back-End ve Front-End Uygulama Geliştirme  
+AI, Natural Language Processing, Deep Learning, Web Development, Back-End & Front-End Application Development
+
 
 **Araçlar / Tools:**
 Git, GitHub, Redux, REST API'ler  
