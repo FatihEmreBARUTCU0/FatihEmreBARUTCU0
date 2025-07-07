@@ -15,7 +15,7 @@
 ## 💻 Kullandığım Teknolojiler | Technologies I Use
 
 **Frontend:**
-React, Tailwind CSS, HTML, CSS, JavaScript  
+React,TypeScript, Tailwind CSS, HTML, CSS, JavaScript  
 
 
 **Backend:**
