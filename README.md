@@ -26,8 +26,8 @@ Socket.io
 
 
 **İlgilendiğim Alanlar / Areas of Interest:**
- Yapay Zeka, Doğal Dil İşleme, Derin Öğrenme  
- AI, Natural Language Processing, Deep Learning
+-Yapay Zeka, Doğal Dil İşleme, Derin Öğrenme, Web Geliştirme, Back-End ve Front-End Uygulama Geliştirme 
+-AI, Natural Language Processing, Deep Learning, Web Development, Back-End & Front-End Application Development
 
 **Araçlar / Tools:**
 Git, GitHub, Redux, REST API'ler  
@@ -38,12 +38,12 @@ Git, GitHub, Redux, REST API'ler
 ## 🚀 Projelerim | My Projects
 
 ### 🔷 [Matchora](https://github.com/FatihEmreBARUTCU0/matchora_clean)
-- 🇹🇷 MBTI tabanlı kişilik analizine göre anonim günlük paylaşımı ve eşleşme sistemi. Gerçek zamanlı mesajlaşma, JWT oturum yönetimi ve onaylı eşleşme özelliği içerir.
-- 🇬🇧 An anonymous diary and match platform based on MBTI-style personality analysis. Includes real-time messaging, JWT-based session management, and approval-based matching system.
+-  MBTI tabanlı kişilik analizine göre anonim günlük paylaşımı ve eşleşme sistemi. Gerçek zamanlı mesajlaşma, JWT oturum yönetimi ve onaylı eşleşme özelliği içerir.
+-  An anonymous diary and match platform based on MBTI-style personality analysis. Includes real-time messaging, JWT-based session management, and approval-based matching system.
 
 ### 🛍️ [YOBEX – E-Ticaret Platformu](https://github.com/FatihEmreBARUTCU0/YOBEX-FULL)
-- 🇹🇷 Redux ile yönetilen, mobil uyumlu ve filtreleme özellikli modern bir e-ticaret sitesi. Kullanıcı girişi, ürün detayları, alışveriş sepeti ve sipariş sistemi barındırır.
-- 🇬🇧 A modern e-commerce website with Redux state management, mobile-responsive design, and filtering features. Includes user login, product detail pages, cart and order flow.
+-  Redux ile yönetilen, mobil uyumlu ve filtreleme özellikli modern bir e-ticaret sitesi. Kullanıcı girişi, ürün detayları, alışveriş sepeti ve sipariş sistemi barındırır.
+-  A modern e-commerce website with Redux state management, mobile-responsive design, and filtering features. Includes user login, product detail pages, cart and order flow.
 
 ---
 
