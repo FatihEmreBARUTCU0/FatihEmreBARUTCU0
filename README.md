@@ -9,25 +9,26 @@ Computer Engineering graduate building real-world apps with React, React Native,
 - ATS score, keyword gaps, improvement suggestions
 - **Mozilla Observatory A+ (120/100)** security score
 - Next.js · TypeScript · Tailwind CSS
-- [Live Demo](https://cv-analyzer-kohl.vercel.app)
+- [Live Demo](https://cv-analyzer-kohl.vercel.app) · [GitHub](https://github.com/FatihEmreBARUTCU0/CV_analyzer)
 
 ### 💬 ShopBot — AI Customer Service Chatbot
 - Groq AI powered conversational chatbot
 - **Google PageSpeed 100/100** · **Mozilla Observatory A+ (120/100)**
 - Next.js · TypeScript · Tailwind CSS
-- [Live Demo](https://chatbot-demo-seven-lovat.vercel.app)
+- [Live Demo](https://chatbot-demo-seven-lovat.vercel.app) · [GitHub](https://github.com/FatihEmreBARUTCU0/chatbot-demo)
 
 ### 🎮 LifeQuest — Gamified Task Manager
 - RPG-style productivity app with XP, levels & streaks
 - Pomodoro timer, badges, mood tracking
 - Offline-first with AsyncStorage
 - React Native · Expo · TypeScript
+- [GitHub](https://github.com/FatihEmreBARUTCU0/-LifeQuest)
 
 ### 🍽️ Restaurant Website
 - Modern restaurant landing page
 - **Mozilla Observatory A+ · Google PageSpeed 100/100**
 - Next.js · TypeScript · Tailwind CSS
-- [Live Demo](https://restoran-sitesi.vercel.app)
+- [Live Demo](https://restoran-sitesi.vercel.app) · [GitHub](https://github.com/FatihEmreBARUTCU0/restoran-sitesi)
 
 ### 🧩 Matchora — Personality-Based Anonymous Social Platform
 - MBTI-style personality test & matching system
