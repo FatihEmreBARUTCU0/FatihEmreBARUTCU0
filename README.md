@@ -25,17 +25,12 @@ Computer Engineering graduate building real-world apps with React, React Native,
 
 ### 🍽️ Restaurant Website
 - Modern restaurant landing page
+- **Mozilla Observatory A+ · Google PageSpeed 100/100**
 - Next.js · TypeScript · Tailwind CSS
 - [Live Demo](https://restoran-sitesi.vercel.app)
 
 ## 🛠️ Tech Stack
 React · React Native · Next.js · TypeScript · Tailwind CSS · Node.js · Groq AI · Expo
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FatihEmreBARUTCU0&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihEmreBARUTCU0&layout=compact&theme=radical" width="48%" />
-</p>
 
 ## 📬 Contact
 📧 emrecompbarutcu@gmail.com  
