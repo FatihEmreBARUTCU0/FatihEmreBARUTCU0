@@ -37,8 +37,15 @@ Computer Engineering graduate building real-world apps with React, React Native,
 - React · Node.js · MongoDB · Socket.io · JWT
 - [GitHub](https://github.com/FatihEmreBARUTCU0/matchora_clean)
 
+### 🛍️ YOBEX — Modern E-Commerce Platform
+- Full-featured shopping experience with cart, orders & favorites
+- Category filtering, promo tracking, guest checkout support
+- JWT authentication, order history, return requests
+- React · Redux Toolkit · Node.js · MongoDB · Tailwind CSS
+- [GitHub](https://github.com/FatihEmreBARUTCU0/YOBEX-FULL)
+
 ## 🛠️ Tech Stack
-React · React Native · Next.js · TypeScript · Tailwind CSS · Node.js · Groq AI · Expo · Socket.io · MongoDB
+React · React Native · Next.js · TypeScript · Tailwind CSS · Node.js · Groq AI · Expo · Socket.io · MongoDB · Redux
 
 ## 📬 Contact
 📧 emrecompbarutcu@gmail.com  
